@@ -22,7 +22,7 @@
 Через composer:
 
 ```bash
-composer require srustamov/laravel-file-manager
+composer require dyutin/laravel-file-manager
 ```
 
 ```bash
