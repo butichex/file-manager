@@ -26,9 +26,10 @@ composer require srustamov/laravel-file-manager
 ```
 
 ```bash
-php artisan vendor:publish --provider="Srustamov\FileManager\FileManagerServiceProvider" --tag="config"
+php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="config"
 ```
 ```bash
-php artisan vendor:publish --provider="Srustamov\FileManager\FileManagerServiceProvider" --tag="public" --force
+php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="public" --force
 ```
-php artisan vendor:publish --provider="Srustamov\FileManager\FileManagerServiceProvider" --tag="public" --force
+php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="public" --force
+```
