@@ -30,6 +30,6 @@ php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProv
 ```
 ```bash
 php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="public" --force
-```
-php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="public" --force
+
+```php artisan vendor:publish --provider="dyutin\FileManager\FileManagerServiceProvider" --tag="public" --force
 ```
